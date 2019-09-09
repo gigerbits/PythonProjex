@@ -1,11 +1,13 @@
 #Logan Cannon
 #9/5/2019
 #Stopwatch
-floats = 55.001
-minu = 59
+floats = 0
+timer=0
+minu = 0
 sec = 0
-hour = 00
+hour = 0
 while True:
+    timer+=0.0025
     floats+=0.0025
     sec = floats // 1 
     if sec == 60.0:
