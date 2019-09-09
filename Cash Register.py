@@ -28,3 +28,4 @@ print('''
 
 Sign Here ↓
 _________________________''')
+input("Enter to close")
