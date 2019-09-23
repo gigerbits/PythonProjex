@@ -44,3 +44,8 @@ print(name1+' = ',score1)
 print(name2+' = ',score2)
 print(name10+' = ',score10)
 print(name4+' = ',score4)
+
+
+
+
+input("Enter to Close")
