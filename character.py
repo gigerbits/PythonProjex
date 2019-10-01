@@ -2,7 +2,7 @@
 #9/17/2019
 #character art
 artist = input("Enter an Artist's Name →")
-pic = str.format('''
+signature = str.format('''
 +--------------------+
 |        |>          |
 |        |\          |
@@ -12,9 +12,6 @@ pic = str.format('''
 |        |    \      |
 |  \==============/  |
 |   \____________/   |
-|                    |
-+--------------------+
-
-            by {}''',artist)
-print(pic)
-print(str.format("#{0:4}#", "dog") )
+|{0:^20}|
++--------------------+''',artist)
+print(signature)
