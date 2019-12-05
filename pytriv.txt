@@ -1,0 +1,100 @@
+Python Midterm Trivia
+Who made the thing?
+Python code was made by which of these old guys?
+Guido von Rossum
+Bryan and Giorno
+Monty Python
+James Gosling
+1
+Guido von Rossum created python as a winter fun project
+Date of birth!
+When was python created?
+1980s
+1990s
+1970s
+Bryan
+1
+Guido made python in the 1980s
+Bad bad _____
+Who is the bad boi
+Bryan
+Not bryan
+Creeper
+Barbara Manatee
+1
+Bryan is the bad boi in 4th/5th period, and doesnt do the good job
+Learning!
+What is the first thing we learned
+print("hello world")
+print("bryan")
+Yeet
+variables
+1
+We learned Hello World first thing we did
+Learning 2: Electric Boogaloo!
+How about what was next? What did we learn second
+Variables
+bryans
+Printing
+Functions
+1
+Variables are the most important thing we have learned, so obviously we learned them second!
+Time for a toughie
+On a scale from one to 10 whats your favorite color of the alphabet?
+Fish
+Bryan
+blue
+7
+1
+The answer is fish because 7+7=Triangle Wasn't it obvious?
+Errors, oh how i hate them
+Which of the following errors is the hardest to debug for?
+logic
+bryan
+indent
+syntax
+1
+Logic errors do NOT crash the program, and make it harder to find them
+Getting in things!
+How would you bring a different file into your own?
+inport
+imput
+input
+bryanput
+1
+Inport is the key word used to load functions from other files
+Basics
+What is the comparison operator for "Less than"
+<
+>
+bryanthan
+less than
+1
+"<" is the symbol for less than, and is also the /comparison operator for less than
+Who's that pythonmon?
+Which of the following functions opens a file
+open(file,mode)
+file.open(file,mode)
+file(file,mode)
+bryan(bryan,bryan)
+1
+open(file,mode) opens the file with a mode, being r, w, or a
+naming conventions
+What can you not put at the begining of a variable?
+Numbers
+Capitals
+Bryan
+Lower case
+1
+Numbers at the beginning of variables cause errors in python
+Naming conventions
+How do you mark a variable as a "Global" variable
+All caps
+Starts with caps
+starts with numbetr
+bryan
+1
+Global Variables are all caps
+
+
+
